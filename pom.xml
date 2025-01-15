@@ -21,9 +21,9 @@
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.opencv/opencv -->
         <dependency>
-            <groupId>org.opencv</groupId>
+            <groupId>org.openpnp</groupId>
             <artifactId>opencv</artifactId>
-            <version>4.10.0</version>
+            <version>4.9.0-0</version>
         </dependency>
 
         <!-- TensorFlow -->
